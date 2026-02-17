@@ -5,9 +5,9 @@
 </div>
 
 ### projects 🍪
-- **[Socksicle](https://github.com/iwtsyddd/Socksicle)** — vpn client  
-- **[DiEmu](https://github.com/iwtsyddd/DiEmu)** — gameboy emulator in rust  
-- **[iwtsyddd.github.io](https://iwtsyddd.github.io/)** — my shitty personal website  
+- **[Socksicle](https://github.com/iwtsyddd/Socksicle)** = vpn client  
+- **[DiEmu](https://github.com/iwtsyddd/DiEmu)** = gameboy emulator in rust  
+- **[iwtsyddd.github.io](https://iwtsyddd.github.io/)** = personal website  
 
 ### streak
 ![streak](https://streak-stats.demolab.com?user=iwtsyddd&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
