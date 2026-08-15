@@ -12,9 +12,6 @@
 - **[DiEmu](https://github.com/iwtsyddd/DiEmu)** = gameboy emulator in rust  
 - **[iwtsyddd.github.io](https://iwtsyddd.github.io/)** = personal website  
 
-### streak
-![streak](https://streak-stats.demolab.com?user=iwtsyddd&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
 ### visitors
 ![visitors](https://komarev.com/ghpvc/?username=iwtsyddd&color=ff69b4)
 
