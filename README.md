@@ -4,6 +4,9 @@
   <h1>hi there!! 🫩</h1>
 </div>
 
+### my socials
+- **[✈️ telegram channel](https://t.me/iwtsyddd)** 
+
 ### projects 🍪
 - **[Socksicle](https://github.com/iwtsyddd/Socksicle)** = vpn client  
 - **[DiEmu](https://github.com/iwtsyddd/DiEmu)** = gameboy emulator in rust  
