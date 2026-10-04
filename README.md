@@ -4,7 +4,7 @@
 
 building software and occasionally breaking it in interesting ways.
 
-[website](https://iwtsd.online) · [telegram](https://t.me/iwtsyddd)
+[website](https://iwtsd.online) · [telegram](https://t.me/ikikikikikikikikikkiki) · [discord](https://discord.com/users/745163148369068033)
 
 # 
 ### projects
