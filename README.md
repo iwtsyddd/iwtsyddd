@@ -8,12 +8,7 @@
 
 <img src="./assets/socksicle.svg" width="580" />
 
-<br/>
-
-**[DiEmu](https://github.com/iwtsyddd/DiEmu)** · Game Boy emulator in Rust  
-**[iwtsd.online](https://github.com/iwtsyddd/iwtsyddd.github.io)** · personal portfolio & blog
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=iwtsyddd&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c084fc&text_color=94a3b8&icon_color=a855f7&hide=prs,issues,contribs" width="340" />
 
