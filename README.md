@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/profile.svg" width="100%" />
+<img src="./assets/profile.svg" width="580" />
 
 <sub>building software and breaking things in interesting ways.</sub>
 
 <br/><br/>
 
-<img src="./assets/socksicle.svg" width="100%" />
+<img src="./assets/socksicle.svg" width="580" />
 
 <br/>
 
@@ -14,6 +14,17 @@
 **[iwtsd.online](https://github.com/iwtsyddd/iwtsyddd.github.io)** · personal portfolio & blog
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=iwtsyddd&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c084fc&text_color=94a3b8&icon_color=a855f7&hide=prs,issues,contribs" width="340" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iwtsyddd/iwtsyddd/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/iwtsyddd/iwtsyddd/output/github-snake.svg" width="560" />
+</picture>
+
+<br/><br/>
 
 <a href="https://t.me/ikikikikikikikikikkiki"><img src="./assets/telegram.svg" width="20" height="20" alt="Telegram" /></a>
 &nbsp;&nbsp;&nbsp;
