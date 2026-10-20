@@ -69,7 +69,7 @@
         <!-- Pulsing violet status indicator -->
         <circle cx="5" cy="5" r="4" fill="#a855f7"/>
         <circle cx="5" cy="5" r="7" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.6"/>
-        <text x="17" y="9" class="status-text">click to go repo</text>
+        <text x="17" y="9" class="status-text">github.com/Socksicle/desktop</text>
       </a>
     </g>
   </g>
