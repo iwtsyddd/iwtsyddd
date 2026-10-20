@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Socksicle/desktop"><img src="./assets/socksicle.svg" width="580" alt="Socksicle" /></a>
+<a href="https://github.com/Socksicle/desktop"><img src="./assets/socksicle.svg?v=2" width="580" alt="Socksicle" /></a>
 
 <br/><br/>
 
