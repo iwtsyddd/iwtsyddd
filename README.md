@@ -2,8 +2,6 @@
 
 <img src="./assets/profile.svg" width="580" />
 
-<sub>building software and breaking things in interesting ways.</sub>
-
 <br/><br/>
 
 <a href="https://github.com/Socksicle/desktop"><img src="./assets/socksicle.svg?v=2" width="580" alt="Socksicle" /></a>
